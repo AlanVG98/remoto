@@ -1,1 +1,9 @@
-Aqui vamos a poner los commits de mi repositorio local.
+62fcfb9 Merge branch 'main' of https://github.com/AlanVG98/remoto
+bd6bbb2 Create Commits.txt
+b992cee Initial commit
+830ee03 fusione correctamente
+2845aee Cambio en nueva rama
+f353224 commit perdido
+260b5c4 tercer commit
+6a904d0 segundo commit
+11c78e6 primer commit
